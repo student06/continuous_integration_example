@@ -65,6 +65,7 @@ namespace :deploy do
   # after "deploy:setup", "deploy:wildtracks_config"
   # after "deploy:wildtracks_config", "deploy:httpd_conf"
   # after "deploy:httpd_conf", "deploy:deploy"
+  # after "deploy:httpd_conf", "deploy:deploy"
   after "deploy:deploy", "deploy:restart"
 end
 
