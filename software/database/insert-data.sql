@@ -68,6 +68,7 @@ INSERT INTO user(username, password) VALUES ('student03','Student03!');
 INSERT INTO user(username, password) VALUES ('student04','Student04!');
 INSERT INTO user(username, password) VALUES ('student05','Student05!');
 INSERT INTO user(username, password) VALUES ('student06','Student06!');
+INSERT INTO user(username, password) VALUES ('student006','Student006!');
 INSERT INTO user(username, password) VALUES ('student07','Student07!');
 INSERT INTO user(username, password) VALUES ('student08','Student08!');
 INSERT INTO user(username, password) VALUES ('student09','Student09!');
