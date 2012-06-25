@@ -2,7 +2,7 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
 <head>
-    <title>Online Brewery Manager</title>
+    <title>Change Online Brewery Manager</title>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
 
     <link rel="stylesheet" href="css/style.css" type="text/css" media="all"/>
