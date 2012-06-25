@@ -1,4 +1,5 @@
 package com.beer.business.service;
+//package com.beer.business.service;
 
 import junit.framework.TestCase;
 import java.util.Collection;
