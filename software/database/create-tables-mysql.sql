@@ -21,5 +21,6 @@ CREATE TABLE user (
 CREATE TABLE coutry (
   COUNTRYNAME varchar(16) default '' NOT NULL ,
   COUNTRYID varchar(50) default '' NOT NULL ,
+  PRIMARY KEY (COUNTRYNAME)
 );
 commit;
